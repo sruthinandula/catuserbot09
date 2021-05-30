@@ -62,6 +62,7 @@ LOGS.info(
     "Congratulation, now type .alive to see message if bot is live\
     \nIf you need assistance, head to https://t.me/catuserbot_support"
 )
+LOGS.info("sruthinandula repo fetched...!!!")
 
 
 async def startupmessage():
